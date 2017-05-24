@@ -1,0 +1,6 @@
+@charset "utf-8";
+*{margin: 0px;padding: 0px;}
+
+body{background-color: darkgrey; color:aliceblue}
+div#general{width: 960px; margin: auto; margin-top: 20px; margin-bottom: 20px;background: #000000;
+}

@@ -1,0 +1,18 @@
+/* CSS Document */
+body{background:#E5D716;}
+.container{
+	width:80%;
+	margin:0 auto;
+	background:#fff;
+	color:#2FD097;
+}
+.container .nombre{float: right; width: 70%; }
+.container .nombre h1,.container .nombre b , a{text-transform:uppercase;}
+.container .nombre h1{font-size:200%;}
+.container img {float:left; width:30%;}
+.clear{clear:both;}
+.container .links{width:100%; float: right; background:#56C1EE}
+.container .links ul{list-style: none; margin: 0; padding:0;}
+.container .links li{display:inline-block; text-align: center;}
+.container .links li a{display:inline-block; padding: 5px 15px; margin:10px; background:#1D53BF; color:#000000; text-decoration: none;}
+.container .links li a:hover{background:#6C00C8; color:#4F596A;}
